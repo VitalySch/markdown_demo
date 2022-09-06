@@ -75,9 +75,9 @@ Alt-H2
 Вот наш логотип (наведите указатель, чтобы увидеть текст заголовка):
 
 Внутри строки:  
-![alt-текст]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://catherineasquithgallery.com/uploads/posts/2021-03/1614553208_12-p-kartinki-na-belom-fone-krasivie-15.png) "Текст заголовка логотипа 1")
+![alt-текст](https://w7.pngwing.com/pngs/446/964/png-transparent-butterfly-blue-morpho-menelaus-butterfly-blue-blue-and-white-butterfly-illustration-blue-brush-footed-butterfly-symmetry-thumbnail.png) "Текст заголовка логотипа 1")
 
 В сноске:  
 ![alt-текст][logo]
 
-[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://catherineasquithgallery.com/uploads/posts/2021-03/1614553208_12-p-kartinki-na-belom-fone-krasivie-15.png) "Текст заголовка логотипа 2"
+[logo]: https://w7.pngwing.com/pngs/446/964/png-transparent-butterfly-blue-morpho-menelaus-butterfly-blue-blue-and-white-butterfly-illustration-blue-brush-footed-butterfly-symmetry-thumbnail.png "Текст заголовка логотипа 2"
