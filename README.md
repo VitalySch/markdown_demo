@@ -69,3 +69,15 @@ Alt-H2
 [1]: http://slashdot.org
 [текст ссылки]: http://www.reddit.com
 
+Изображения
+===========
+
+Вот наш логотип (наведите указатель, чтобы увидеть текст заголовка):
+
+Внутри строки:  
+![alt-текст]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://catherineasquithgallery.com/uploads/posts/2021-03/1614553208_12-p-kartinki-na-belom-fone-krasivie-15.png) "Текст заголовка логотипа 1")
+
+В сноске:  
+![alt-текст][logo]
+
+[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://catherineasquithgallery.com/uploads/posts/2021-03/1614553208_12-p-kartinki-na-belom-fone-krasivie-15.png) "Текст заголовка логотипа 2"
