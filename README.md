@@ -75,7 +75,7 @@ Alt-H2
 Вот наш логотип (наведите указатель, чтобы увидеть текст заголовка):
 
 Внутри строки:  
-![alt-текст](https://w7.pngwing.com/pngs/446/964/png-transparent-butterfly-blue-morpho-menelaus-butterfly-blue-blue-and-white-butterfly-illustration-blue-brush-footed-butterfly-symmetry-thumbnail.png) "Текст заголовка логотипа 1")
+![alt-текст](https://w7.pngwing.com/pngs/446/964/png-transparent-butterfly-blue-morpho-menelaus-butterfly-blue-blue-and-white-butterfly-illustration-blue-brush-footed-butterfly-symmetry-thumbnail.png "Текст заголовка логотипа 1")
 
 В сноске:  
 ![alt-текст][logo]
