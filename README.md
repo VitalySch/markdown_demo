@@ -122,6 +122,8 @@ let greeting2 = 'Mother!';
 
 console.log(greeting2);
 
+
+_________________________
 Инлайн код
 =========
 
