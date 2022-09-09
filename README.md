@@ -82,6 +82,7 @@ Alt-H2
 
 [logo]: https://w7.pngwing.com/pngs/446/964/png-transparent-butterfly-blue-morpho-menelaus-butterfly-blue-blue-and-white-butterfly-illustration-blue-brush-footed-butterfly-symmetry-thumbnail.png "Текст заголовка логотипа 2"
 
+<<<<<<< HEAD
 
 
 
@@ -122,7 +123,7 @@ let greeting2 = 'Mother!';
 
 console.log(greeting2);
 
-
+```
 _________________________
 Инлайн код
 =========
@@ -133,3 +134,25 @@ _________________________
 Если внутри кода есть апостроф, код нужно заключить в двойные апострофы: There is a literal backtick (`) here.
 
 Если внутри кода есть апостроф, то код надо обрамить двойными апострофами: ``There is a literal backtick (`) here.``
+=======
+
+  
+Таблицы
+========
+В оригинальном Markdown нет разметки для таблиц, но есть в GitHub Flavored Markdown.
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+Можно управлять выравниванием столбцов используя символ двоеточия. Ещё можно использовать ссылки, наклонный, жирный или зачеркнутый текст.
+
+| Left-Aligned  | Center Aligned  |      Right Aligned    |
+|:------------- |:---------------:| ---------------------:|
+| Content Cell  | Content Cell    | **bold**              |
+| Content Cell  | Content Cell    | ~~strikethrough~~     |
+| Content Cell  | Content Cell    | [link](https://ya.ru) |
+
+
+
