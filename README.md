@@ -83,6 +83,7 @@ Alt-H2
 [logo]: https://w7.pngwing.com/pngs/446/964/png-transparent-butterfly-blue-morpho-menelaus-butterfly-blue-blue-and-white-butterfly-illustration-blue-brush-footed-butterfly-symmetry-thumbnail.png "Текст заголовка логотипа 2"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -154,5 +155,28 @@ Content Cell  | Content Cell
 | Content Cell  | Content Cell    | ~~strikethrough~~     |
 | Content Cell  | Content Cell    | [link](https://ya.ru) |
 
+
+
+Цитаты
+======
+Цитаты вкладываются как в списки, так и в другие цитаты. Цитаты также могут включать в себя заголовки, списки и код.
+
+> Привет! Это цитата
+
+>> Это тоже цитата
+
+
+>>> Это еще одна цитата
+
+Это ее продолжение (показываем отступом)
+
+
+> Это тоже
+
+Будет
+
+>
+
+> Одна целая цитата
 
 
