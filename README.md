@@ -81,3 +81,44 @@ Alt-H2
 ![alt-текст][logo]
 
 [logo]: https://w7.pngwing.com/pngs/446/964/png-transparent-butterfly-blue-morpho-menelaus-butterfly-blue-blue-and-white-butterfly-illustration-blue-brush-footed-butterfly-symmetry-thumbnail.png "Текст заголовка логотипа 2"
+
+
+
+
+
+Code
+=====
+
+Кстати, о коде. Вставлять его можно как внутрь строк, так и отдельными блоками. Для соответствующей разметки используют грависы или обратные тики. Инлайн-код выделяют одиночными символами, а блоки – тройными. При оформлении целого блока можно указать язык программирования, чтобы подсветить соответствующий синтаксис. Примеры:
+
+Просто инлайн-код: `print("Hello, World!")`
+
+
+Код на Python:
+
+```python
+
+x = int(input())
+
+if x > 0:
+
+    print(x)
+
+else:
+
+    print(-x)
+
+```
+
+Код на JavaScript:
+
+```javascript
+
+let greeting1 = 'Father!';
+
+console.log(greeting1);
+
+let greeting2 = 'Mother!';
+
+console.log(greeting2);
+
